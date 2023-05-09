@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/EventManagement/static/css/main.986ae8d6.css",
+    "main.js": "/EventManagement/static/js/main.f926bcb5.js",
+    "static/js/787.53335cac.chunk.js": "/EventManagement/static/js/787.53335cac.chunk.js",
+    "static/media/pms.gif": "/EventManagement/static/media/pms.e8af2df99e10cc94828a.gif",
+    "static/media/about.png": "/EventManagement/static/media/about.99e9d7276639858258d6.png",
+    "static/media/saisurya.png": "/EventManagement/static/media/saisurya.48c4caec1e17bb1cf779.png",
+    "static/media/g6.jpg": "/EventManagement/static/media/g6.d71429081022e5aeb1ae.jpg",
+    "static/media/g3.jpg": "/EventManagement/static/media/g3.4b533083e3d495fdab65.jpg",
+    "static/media/e3.png": "/EventManagement/static/media/e3.f7d86aecc67043b4d371.png",
+    "static/media/nethri.jpg": "/EventManagement/static/media/nethri.92519cd058cf97310085.jpg",
+    "static/media/box.jpg": "/EventManagement/static/media/box.673389ddd820ffb50bc3.jpg",
+    "static/media/e1.jpg": "/EventManagement/static/media/e1.e52e8424279820d01cd1.jpg",
+    "static/media/e2.jpg": "/EventManagement/static/media/e2.b0c06be694faeb128d0d.jpg",
+    "static/media/deepthi.jpg": "/EventManagement/static/media/deepthi.f8de2e718ec944f9545f.jpg",
+    "static/media/logo.svg": "/EventManagement/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EventManagement/index.html",
+    "main.986ae8d6.css.map": "/EventManagement/static/css/main.986ae8d6.css.map",
+    "main.f926bcb5.js.map": "/EventManagement/static/js/main.f926bcb5.js.map",
+    "787.53335cac.chunk.js.map": "/EventManagement/static/js/787.53335cac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.986ae8d6.css",
+    "static/js/main.f926bcb5.js"
+  ]
+}
